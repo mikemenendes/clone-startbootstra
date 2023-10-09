@@ -35,7 +35,7 @@
 
 .center{
     text-align: center;
-    margin:auto;
+    margin: auto;
 }
 
   .titulo{
@@ -252,15 +252,8 @@ div#form input:hover{
 
   footer p{
     color: var(--bs-white);
-    font-size: 0.7em;
-    text-align: center;
+    font-size: 16px;
     font-weight: bolder;
-  }
-
-  footer span{
-      color: var(--bs-teal);
-      font-weight: bolder;
-text-align: center;
   }
 
   @media screen and (max-width: 775px){
