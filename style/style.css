@@ -33,6 +33,11 @@
     
 }
 
+.center{
+    text-align: center;
+    margin:auto;
+}
+
   .titulo{
       text-align: center;
       padding: 20px;
